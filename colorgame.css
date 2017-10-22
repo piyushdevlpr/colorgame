@@ -1,0 +1,42 @@
+body{
+	background:#232323;
+	}
+h1{	
+
+	color: rgb(200, 20, 20);
+ 	text-align: center;
+}
+h2{ 
+
+	color: #232323;
+}
+header{
+	
+	background: rgb(20, 200, 200);
+
+}
+#main{
+	text-align: center;
+	background: yellow;
+	
+}
+.table{
+	width:30%;
+	background: red;
+	float:left;
+	padding-top: 30%;
+	margin: 1%;
+}
+#p1{
+	margin:0 auto;
+	max-width: 600px;
+	}
+p{	
+
+	text-align: center;
+}
+#btn{
+	font-family: arial;
+	color:#232323;
+	background-color: pink;
+}
